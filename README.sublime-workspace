@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"align	Attr"
+			],
+			[
+				"he",
+				"height	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 205.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/l.soikher/Desktop/Important Promo UTM PATH",
+		"/C/Users/l.soikher/Desktop/HTML TEMPS/testtempv3.html",
+		"/C/Users/l.soikher/Desktop/ws_ftp folder/temptest.html",
+		"/C/Users/l.soikher/Desktop/Banner Ads UTM Path",
+		"/C/Users/l.soikher/Desktop/gap.html",
+		"/C/Users/l.soikher/Desktop/classy look.html",
+		"/C/Users/l.soikher/Desktop/testing.html",
+		"/E/Users/l.soikher/Downloads/Test Maurice.html",
+		"/C/Users/l.soikher/Desktop/HTML TEMPS/TestTemplate.html",
+		"/C/Users/l.soikher/Desktop/thxgivingtest/Simple Template (copy 01).html",
+		"/C/Users/l.soikher/Desktop/thxgivingtest/Responsive_Template1.html",
+		"/C/Users/l.soikher/Desktop/html/index.html",
+		"/C/Users/l.soikher/Desktop/hero.html",
+		"/C/Users/l.soikher/Desktop/thxgivingtest/mobilefriend.html",
+		"/C/Users/l.soikher/Desktop/ws_ftp folder/FORMAT_PRICING_RPT_EEB600AC.LIS",
+		"/C/Users/l.soikher/Desktop/COUPON ORDER REPORT",
+		"/C/Users/l.soikher/Desktop/MarketLinxRETSConnector/tasks/CRMLS+MEDIA/DATA/CRMLS PROPERTIES.txt",
+		"/C/Users/l.soikher/Desktop/AGENT.CSV;1",
+		"/C/Users/l.soikher/Desktop/basketball",
+		"/C/Users/l.soikher/Desktop/WUFOO/index.html",
+		"/E/Users/l.soikher/Downloads/employment-application.zip",
+		"/C/Users/l.soikher/Desktop/fallback",
+		"/C/Users/l.soikher/Desktop/dicksonad 360",
+		"/C/Users/l.soikher/Desktop/testtable.html",
+		"/C/Users/l.soikher/Desktop/AGENT EMAIL REPORT Watson.csv",
+		"/C/Users/l.soikher/Desktop/Reports/COUPON ORDER REPORT",
+		"/C/Users/l.soikher/Dropbox (IMS)/Impact Shared/Data-Programming/Realcove/Data Pulls/CRMLS_Properties_Test.csv",
+		"/C/Users/l.soikher/Desktop/MarketLinxRETSConnector/tasks/CRMLS/CRMLS Properties.txt",
+		"/C/Users/l.soikher/Desktop/Reports/COUPON ORDER REPORT - Helmet",
+		"/C/Users/l.soikher/Desktop/Reports/COUPON ORDER REPORT - Laces",
+		"/C/Users/l.soikher/AGENT_ROSTER_RPT_0771_B5FA0163.txt",
+		"/C/Users/l.soikher/AGENT_ROSTER_RPT_0771_B6034D1A.CSV",
+		"/C/Users/l.soikher/Desktop/AGENT_EMAIL_RPT_0771_B5EB1EF1.csv",
+		"/C/Users/l.soikher/Reports/AGENT_EMAIL_RPT_0771_B5EB1EF1.CSV",
+		"/C/Users/l.soikher/Desktop/AGENT_ROSTER_RPT_0771_B5FA0163.txt",
+		"/E/Users/l.soikher/Documents/Work/Lyon Project",
+		"/E/Users/l.soikher/Documents/Work/Lyon Project - Selectors",
+		"/C/Users/l.soikher/Desktop/FresMLS search critieria",
+		"/C/Users/l.soikher/Desktop/AGENT_ROSTER_RPT_0771_B5EE31F1.csv",
+		"/C/Users/l.soikher/AGENT_ROSTER_RPT_0771_B5F512BE.CSV",
+		"/E/Users/l.soikher/Downloads/AGENT_ROSTER_RPT_0771_B5F512BE.CSV",
+		"/C/Users/l.soikher/Desktop/labordayproducts.csv",
+		"/C/Users/l.soikher/Desktop/MarketLinxRETSConnector/tasks/ocbr_test.csv",
+		"/E/Users/l.soikher/Documents/Work/honeybadger/.foreverignore"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LM_Char10_17",
+			"class=",
+			"class=\"noborder\"",
+			"class=\"navbar\"",
+			"L_dis",
+			"displayID",
+			"left_promo",
+			"width",
+			"nbsp",
+			"make your pur",
+			"make your",
+			"style=\"b",
+			"#",
+			"class",
+			"class=",
+			"ID=",
+			"class=\"",
+			"class=",
+			"id=",
+			"bgcolor=\"",
+			"IMG {",
+			"img",
+			"dir=\"ltr\"",
+			";;",
+			"\"\"",
+			"swirl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
